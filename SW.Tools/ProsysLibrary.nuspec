@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>SW.Tools</id>
+    <version>1.0.12.4</version>
+    <title>SW.Tools</title>
+    <authors>LunaSoft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/eliziel31mess/sw-tools-dotnet</projectUrl>
+    <description>Librería para la generación del XML a través de .Net.</description>
+    <releaseNotes>Fork del proyecto SW.Tools</releaseNotes>
+    <copyright>LunaSoft</copyright>
+    <tags>PROSYS Framework SW Sapiens</tags>
+  </metadata>
+</package>

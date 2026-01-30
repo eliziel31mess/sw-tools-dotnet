@@ -129,7 +129,10 @@
     <Compile Include="Services\Sign\SignService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="nuget.config" />
     <None Include="packages.config" />
+    <None Include="ProsysLibrary.nuspec" />
+    <None Include="Readme.md" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Catalogs\CatalogosTXT\catCFDI_Moneda.txt" />
